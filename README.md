@@ -27,3 +27,6 @@ Analysing portfolio in real time to see what best combination should be chosen.
 - Build the visualization plots with slider (Lucca)
 - Create a Dashboard (Michael Akuamoah)
 - Create a presentation and divide it (Hassan)
+
+### Additional resources
+Link to bitcoin data file - https://www.kaggle.com/mczielinski/bitcoin-historical-data
